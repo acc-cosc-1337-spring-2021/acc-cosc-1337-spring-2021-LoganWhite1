@@ -1,3 +1,4 @@
+#include "input.h"
 //cpp
 //write header file include
 
