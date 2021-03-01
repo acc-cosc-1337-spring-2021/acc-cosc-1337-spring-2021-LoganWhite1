@@ -26,6 +26,8 @@ decimal portion*/
 /*Test get radius of a circle with 10 to show that it returns 314.159*/
 
 /*Test int data size */
-
+TEST_CASE ("test"){
+	REQUIRE(convert_to_double(10, .35) == 3.5)
+}
 /*Test multi assign addition*/
 
